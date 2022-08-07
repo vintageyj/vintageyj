@@ -1,4 +1,8 @@
 <h1 align="center">
+  <img src="profile_cover.gif" height="400px">
+</h1>
+
+<h1 align="center">
   Hello, I'm Yue Jun! 
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 </h1>
